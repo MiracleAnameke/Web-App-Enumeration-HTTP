@@ -2,7 +2,6 @@
 ## Web App Enumeration & HTTP
 
 ### Lab Requirements
-- VM Snapshots from Lab 04
 - Internet connectivity & VMware Workstation version 15.5.7 or above
 - Ensure that you can browse from Kali’s Firefox to FOLusername-uws/mutillidae
 
